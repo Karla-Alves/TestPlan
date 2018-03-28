@@ -51,7 +51,7 @@ As an user of the Password Hashing Application I want to see the correct respons
 
       b.  Test Case Result - post to the hash endpoint was successful
 
-                      ![image alt text](images/image_1.png)
+![image alt text](images/image_1.png)
 
 * * *
 
